@@ -1,4 +1,4 @@
- module "gke1" {
+ module "gke" {
  source  = "tfe.shayes.3607853379.workshops.arctiq.ca/arctiq/gke/google"
  version = "1.0.0"
 
